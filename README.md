@@ -1,10 +1,9 @@
-
 Playlist de type youtube, avec player video en mean
 ============================
 
-> Structure du projet
+### Structure du projet
 
-### Dossiers du répertoire
+> Dossiers du répertoire
 
 
 	.
@@ -18,7 +17,7 @@ Playlist de type youtube, avec player video en mean
     │   └── ...            		# 
     └── ...
 	
-### Liste des pages html
+> Liste des pages html
 
 	Public
     ├── index.html              # Liste des musiques trié par genre de musique 
@@ -34,7 +33,7 @@ Playlist de type youtube, avec player video en mean
     └── profil.html
 	
 	
-> Documentations
+### Documentations
 
 * Les cours
 * https://docs.mongodb.com/manual/
